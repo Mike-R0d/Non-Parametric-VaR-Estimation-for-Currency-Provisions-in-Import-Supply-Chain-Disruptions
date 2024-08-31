@@ -1,4 +1,4 @@
-# Non Parametric VaR Estimation for Currency Provisions in Import Supply Chain Disruptions
+# Estimation of Currency Provisions Using Non-Parametric VaR Methodology
 
 # Business Case: Asset Replacement Project
 
